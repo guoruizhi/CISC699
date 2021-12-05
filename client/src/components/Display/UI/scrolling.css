@@ -1,0 +1,13 @@
+.ui.card>.content,
+.ui.cards>.card>.content {
+    background-color: #f8f4f9;
+}
+
+.ui.card>.content.extra,
+.ui.cards>.card>.content.extra {
+    background-color: #f8f4f9;
+}
+
+.ui.card.scrollingCard {
+    width: 600px;
+}

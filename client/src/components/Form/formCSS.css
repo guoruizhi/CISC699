@@ -1,0 +1,24 @@
+.ui.form .inline.fields {
+    margin: 0.5em;
+}
+
+.ui.grid.message {
+    background-color: #eeeeee;
+    box-shadow: none;
+    border-radius: 0;
+}
+.ui.grid.message .row {
+    margin-top: 2.5em;
+    margin-bottom: 2.5em;
+}
+.grid.container {
+    margin-top: 5em;
+}
+.inputfile {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
